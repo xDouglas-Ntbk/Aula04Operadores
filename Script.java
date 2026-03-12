@@ -1,4 +1,3 @@
-package exercico.devdojo.maratonajava.introducao;
 
 /*
 public class Aula04Operadores {
